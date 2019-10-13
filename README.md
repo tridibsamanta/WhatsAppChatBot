@@ -1,2 +1,2 @@
 # WhatsAppChatBot
-WhatsApp Chatting System Automation using Python
+WhatsApp Chat Automation using Python
