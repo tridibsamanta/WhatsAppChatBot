@@ -1,5 +1,5 @@
 # WhatsApp Chat Bot ©tridibsamanta
-WhatsApp Automation using Python
+WhatsApp Web Automation using Python
 
 ***** FOLLOW THE INSTRUCTIONS *****
 
