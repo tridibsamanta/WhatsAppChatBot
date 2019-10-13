@@ -10,11 +10,11 @@ WhatsApp Automation using Python
   In cmd write :
   pip -V
 ● Open python IDLE and write the following statement
-  >>> import pyautogui as p
+  import pyautogui as p
   If import is not successful, install the pyautogui library using the command- pip install pyautogui , in cmd.
 ● Open WhatsApp Web (https://web.whatsapp.com) and place the mouse cursor on the "search" box, now dont move the mouse cursor from there and open the IDLE. Don't use the mouse, use Alt+Tab to open IDLE.
 ● Now write the following statement 
-  >>> p.position()
+  p.position()
   Sample output will be like - Point(x=190,y=150)
 ● Open the WhatsAppChatBot.py in an editor and edit the line 38
   p.click(put the value of x,put the value of y)
