@@ -26,7 +26,7 @@ WhatsApp Web Automation using Python
 
 ● Now open WhatsApp Web, and open a chat which has a last message sent by receiver, move the mouse cursor the top of the last message and then place the cursor there and take the position of the cursor in the same way as explained above in IDLE.
 
-● Put the values of x and y in line no 44
+● Put the values of x and y in line no. 44
 
 ● Now move the cursor to the position where the message ends and navigate to the IDLE and take the position of the cursor using p.position() statement.
 
