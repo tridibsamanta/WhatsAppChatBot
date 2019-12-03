@@ -17,7 +17,7 @@ WhatsApp Web Automation using Python
   
 ● Open WhatsApp Web (https://web.whatsapp.com) and place the mouse cursor on the "Search" box, now dont move the mouse cursor from there and open the IDLE. Don't use the mouse, use Alt+Tab to open IDLE.
 
-● Now write the following statement 
+● Now write the following statement :
   p.position()
   Sample output will be like - Point(x=190,y=150)
 
