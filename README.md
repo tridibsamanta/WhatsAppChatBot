@@ -11,7 +11,7 @@ WhatsApp Web Automation using Python
   In cmd write :
   pip -V
   
-● Open python IDLE and write the following statement
+● Open python IDLE and write the following statement :
   import pyautogui as p
   If import is not successful, install the pyautogui library using the command- pip install pyautogui , in cmd.
   
