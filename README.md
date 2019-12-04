@@ -13,7 +13,7 @@ WhatsApp Web Automation using Python
   
 ● Open python IDLE and write the following statement :
   import pyautogui as p
-  If import is not successful, install the pyautogui library using the command- pip install pyautogui , in cmd.
+  If import is not successful, install the pyautogui library using the command- pip install pyautogui, in cmd.
   
 ● Open WhatsApp Web (https://web.whatsapp.com) and place the mouse cursor on the "Search" box, now dont move the mouse cursor from there and open the IDLE. Don't use the mouse, use Alt+Tab to open IDLE.
 
