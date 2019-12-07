@@ -3,11 +3,11 @@ WhatsApp Web Automation using Python
 
 ***** FOLLOW THE INSTRUCTIONS *****
 
-● Check whether python is installed in the system. 
+● Check whether python is installed in the system 
   Open the cmd and write : 
   python -V
   
-● Check whether pip is installed in the system.
+● Check whether pip is installed in the system
   In cmd write :
   pip -V
   
