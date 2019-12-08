@@ -1,4 +1,4 @@
-# WhatsApp Chat Bot © Tridib Samanta
+# WhatsApp Chat Bot © TridibSamanta
 WhatsApp Web Automation using Python
 
 ***** FOLLOW THE INSTRUCTIONS *****
