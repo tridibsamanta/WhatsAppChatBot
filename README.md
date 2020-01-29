@@ -8,7 +8,7 @@ WhatsApp Web Automation using Python  :snake:
   python -V
   
 ● Check whether pip is installed in the system
-  In cmd write :
+  In cmd type :
   pip -V
   
 ● Open python IDLE and write the following statement :
